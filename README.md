@@ -1,16 +1,38 @@
-# chatify
+# 💬 Talksy – A Flutter Chat App
 
-A new Flutter project.
+Talksy is a modern, real-time chat application built using **Flutter** and **Firebase**. It allows users to register, create a profile, chat with other users, and send text messages — with planned support for voice calling, image sharing, and more.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 User Authentication (Firebase Auth)
+- 👤 Profile Setup with Image Upload
+- 💬 One-on-one Real-time Chat
+- 🕓 Message Timestamp and Read Status
+- 📤 Upload Profile Pictures (from Camera/Gallery)
+- 📡 Firebase Firestore Integration
+- 🖼️ Image Picker Integration
+- 🔍 User Search by Name or Email
+- ☁️ Cloud Firestore-based Data Storage
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- **Firebase Authentication**
+- **Firebase Firestore**
+- **Firebase Storage**
+- **image_picker**, **uuid**, **cloud_firestore**, **firebase_core**
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/Talksy.git
+cd Talksy
+
+
